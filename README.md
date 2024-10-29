@@ -105,3 +105,19 @@ Realizamos pruebas exhaustivas del juego para detectar y corregir errores.
 Presentamos la versión final del Templo Mayor, completada y lista para el juego.  
 ![Piramide](images/Piramide.pdf-image-025.png)
 
+
+## Short Story
+The game is going to be called "Shadow of the Serpent," where players embody Marcus
+Steele, a seasoned bounty hunter armed with a trusty revolver. Venturing into the heart of
+the Mexican jungle, Marcus seeks the legendary treasures hidden within an ancient Aztec
+pyramid shrouded in mystery and guarded by supernatural forces.
+
+As he explores the labyrinth-like corridors of the pyramid, Marcus confronts skeletal warriors
+wielding sharp obsidian swords. These undead guardians are relentless, pushing him to use
+his sharp wit and quick reflexes to navigate treacherous traps and solve cryptic puzzles that
+have claimed countless adventurers before him.
+
+The adventure reaches its peak when Marcus faces a formidable skeletal lord in an epic
+boss battle. After he defeats the boss the temple begins to collapse around him, he must not
+only secure the hidden treasures but also escape the crumbling structure alive.
+
