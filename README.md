@@ -111,7 +111,7 @@ In "Shadow of the Serpent," players embody Marcus Steele, a seasoned bounty hunt
 
 The game journey begins as Marcus treks through dense foliage and treacherous terrain, the jungle being alive with the sounds of unseen creatures. The air thick with humidity and tension from the wildlife predators as he approaches the looming pyramid, its large stone steps and amazing architecture showing that a prosporous civilization once thrived there.
 
-Entering the pyramid, Marcus navigates a labyrinth of dimly lit corridors and walls adorned with cryptic symbols. His first encounter are skeletal warriors wielding sharp obsidian swords, risen to guard the pyramid's treasures. With quick reflexes and precise gunfire, he fends off these relentless undead guardians, each battle more intense than the last.
+Entering the pyramid, Marcus navigates a labyrinth of dimly lit corridors and walls adorned with cryptic symbols. His first encounter are skeletal warriors wielding sharp obsidian swords, risen to guard the pyramid's treasures. With quick reflexes and precise gunfire, he fends off the undead guardians, each battle more intense than the last.
 
 Marcus must outsmart deadly traps by dodging poisoned darts, evading swinging blades, and leaping over pits. Cryptic puzzles block his path, requiring him to decipher Aztec symbols and manipulate ancient mechanisms. His survival hinges on a keen mind as much as a steady hand.
 
