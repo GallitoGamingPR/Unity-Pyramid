@@ -115,7 +115,7 @@ Entering the pyramid, Marcus navigates a labyrinth of dimly lit corridors and wa
 
 Along with fighting various skeleton enemies, Marcus must outsmart deadly traps by dodging poisoned darts, evading swinging blades, and leaping over pits. Cryptic puzzles block his path, requiring him to decipher Aztec symbols and manipulate ancient mechanisms. His survival hinges on a keen mind as much as a steady hand.
 
-At the pyramid's core, Marcus confronts the formidable Skeletal Lord, a towering figure adorned with a feathered headdress and wielding an enchanted obsidian greatsword that deals tremendous damage. In a climactic boss battle, he must exploit the Skeletal Lord's weaknesses while avoiding devastating attacks. Utilizing the environment and his arsenal found from previous adventurers that perished, Marcus ultimately defeats the undead monarch.
+At the pyramid's core, Marcus confronts the formidable Skeletal Lord, a towering figure adorned with a feathered headdress and wielding an enchanted obsidian greatsword that deals tremendous damage. In a climactic boss battle, he must exploit the Skeletal Lord's weaknesses while avoiding devastating attacks. Utilizing the environment and his arsenal found from previous adventurers that perished before him, Marcus ultimately defeats the undead monarch.
 
 With the Skeletal Lord vanquished, the pyramid begins to crumble. Marcus snatches a legendary artifact that was being protected, the serpent idol with emerald eyes and begins his harrowing escape. The corridors begin to collapse, and new traps spring to life. Racing against time, he leaps over chasms and dodges falling debris, relying on both courage and agility.
 
