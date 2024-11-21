@@ -107,17 +107,19 @@ Presentamos la versión final del Templo Mayor, completada y lista para el juego
 
 
 ## Short Story
-The game is going to be called "Shadow of the Serpent," where players embody Marcus
-Steele, a seasoned bounty hunter armed with a trusty revolver. Venturing into the heart of
-the Mexican jungle, Marcus seeks the legendary treasures hidden within an ancient Aztec
-pyramid shrouded in mystery and guarded by supernatural forces.
+In "Shadow of the Serpent," players embody Marcus Steele, a seasoned bounty hunter known for his sharp wit and trusty revolver. Drawn by rumors of immeasurable wealth, Marcus ventures deep into the Mexican jungle, following a mysterious map that leads to an ancient Aztec pyramid lost to time.
 
-As he explores the labyrinth-like corridors of the pyramid, Marcus confronts skeletal warriors
-wielding sharp obsidian swords. These undead guardians are relentless, pushing him to use
-his sharp wit and quick reflexes to navigate treacherous traps and solve cryptic puzzles that
-have claimed countless adventurers before him.
+The game journey begins as Marcus treks through dense foliage and treacherous terrain, the jungle being alive with the sounds of unseen creatures. The air is thick with humidity and tension as he approaches the looming pyramid, its large stone steps and amazing architecture showing that a prosporous civilization once thrived there.
 
-The adventure reaches its peak when Marcus faces a formidable skeletal lord in an epic
-boss battle. After he defeats the boss the temple begins to collapse around him, he must not
-only secure the hidden treasures but also escape the crumbling structure alive.
+Entering the pyramid, Marcus navigates a labyrinth of dimly lit corridors and walls adorned with cryptic symbols. His first encounter are skeletal warriors wielding sharp obsidian swords, risen to guard the pyramid's treasures. With quick reflexes and precise gunfire, he fends off these relentless undead guardians, each battle more intense than the last.
+
+Marcus must outsmart deadly traps by dodging poisoned darts, evading swinging blades, and leaping over pits. Cryptic puzzles block his path, requiring him to decipher Aztec symbols and manipulate ancient mechanisms. His survival hinges on a keen mind as much as a steady hand.
+
+At the pyramid's core, Marcus confronts the formidable Skeletal Lord, a towering figure adorned with a feathered headdress and wielding an enchanted obsidian greatsword that deals tremendous damage. In a climactic boss battle, he must exploit the Skeletal Lord's weaknesses while avoiding devastating attacks. Utilizing the environment and his arsenal found from previous adventurers that perished, Marcus ultimately defeats the undead monarch.
+
+With the Skeletal Lord vanquished, the pyramid begins to crumble. Marcus snatches a legendary artifact that was being protected, the serpent idol with emerald eyes and begins his harrowing escape. The corridors begin to collapse, and new traps spring to life. Racing against time, he leaps over chasms and dodges falling debris, relying on both courage and agility.
+
+Emerging from the collapsing structure just as it seals itself forever, Marcus stands amidst the settling dust and the sun casts a warm glow, he reflects on the perilous journey. Treasure in hand, he begins the trek back, adventure over but contemplating the mysteries he's uncovered and other legends yet to be explored.
+
+"Shadow of the Serpent" offers an exhilarating blend of action, exploration, and puzzle-solving, immersing players in a world where ancient myths collide with perilous adventure. An adventure not only for the treasure but for the knowledge of uncovering legends lost to time.
 
