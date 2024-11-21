@@ -121,5 +121,5 @@ With the Skeletal Lord vanquished, the pyramid begins to crumble. Marcus snatche
 
 Emerging from the collapsing structure just as it seals itself forever, Marcus stands amidst the settling dust as the sun casts a warm glow, he reflects on the perilous journey that almost cost him his life. Treasure in hand, he begins the trek back, adventure over but contemplating the mysteries he's uncovered and other legends yet to be explored.
 
-"Shadow of the Serpent" offers an exhilarating blend of action, exploration, and puzzle-solving, immersing players in a world where ancient myths collide with perilous adventure. An adventure not only for the treasure but for the knowledge of uncovering legends lost to time.
+"Shadow of the Serpent" offers an exhilarating blend of action, exploration, and puzzle-solving, immersing players in a world where ancient myths collide with treacherous adventure. An adventure not only for the invaluable treasure but for the knowledge of uncovering legends lost to time.
 
