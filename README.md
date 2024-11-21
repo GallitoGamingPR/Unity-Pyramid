@@ -109,7 +109,7 @@ Presentamos la versión final del Templo Mayor, completada y lista para el juego
 ## Short Story
 In "Shadow of the Serpent," players embody Marcus Steele, a seasoned bounty hunter known for his sharp wit and trusty revolver. Drawn by rumors of immeasurable wealth, Marcus ventures deep into the Mexican jungle, following a mysterious map that leads to an ancient Aztec pyramid lost to time.
 
-The game journey begins as Marcus treks through dense foliage and treacherous terrain, the jungle being alive with the sounds of unseen creatures. The air is thick with humidity and tension as he approaches the looming pyramid, its large stone steps and amazing architecture showing that a prosporous civilization once thrived there.
+The game journey begins as Marcus treks through dense foliage and treacherous terrain, the jungle being alive with the sounds of unseen creatures. The air thick with humidity and tension from the wildlife predators as he approaches the looming pyramid, its large stone steps and amazing architecture showing that a prosporous civilization once thrived there.
 
 Entering the pyramid, Marcus navigates a labyrinth of dimly lit corridors and walls adorned with cryptic symbols. His first encounter are skeletal warriors wielding sharp obsidian swords, risen to guard the pyramid's treasures. With quick reflexes and precise gunfire, he fends off these relentless undead guardians, each battle more intense than the last.
 
