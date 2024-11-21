@@ -113,7 +113,7 @@ The game journey begins as Marcus treks through dense foliage and treacherous te
 
 Entering the pyramid, Marcus navigates a labyrinth of dimly lit corridors and walls adorned with cryptic symbols. His first encounter are skeletal warriors wielding sharp obsidian swords, risen to guard the pyramid's treasures. With quick reflexes and precise gunfire, he fends off the undead guardians, each battle more intense than the last.
 
-Marcus must outsmart deadly traps by dodging poisoned darts, evading swinging blades, and leaping over pits. Cryptic puzzles block his path, requiring him to decipher Aztec symbols and manipulate ancient mechanisms. His survival hinges on a keen mind as much as a steady hand.
+Along with fighting various skeleton enemies, Marcus must outsmart deadly traps by dodging poisoned darts, evading swinging blades, and leaping over pits. Cryptic puzzles block his path, requiring him to decipher Aztec symbols and manipulate ancient mechanisms. His survival hinges on a keen mind as much as a steady hand.
 
 At the pyramid's core, Marcus confronts the formidable Skeletal Lord, a towering figure adorned with a feathered headdress and wielding an enchanted obsidian greatsword that deals tremendous damage. In a climactic boss battle, he must exploit the Skeletal Lord's weaknesses while avoiding devastating attacks. Utilizing the environment and his arsenal found from previous adventurers that perished, Marcus ultimately defeats the undead monarch.
 
