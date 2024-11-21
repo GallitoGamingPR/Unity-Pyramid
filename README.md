@@ -119,7 +119,7 @@ At the pyramid's core, Marcus confronts the formidable Skeletal Lord, a towering
 
 With the Skeletal Lord vanquished, the pyramid begins to crumble. Marcus snatches a legendary artifact that was being protected, the serpent idol with emerald eyes and begins his harrowing escape. The corridors begin to collapse, and new traps spring to life. Racing against time, he leaps over chasms and dodges falling debris, relying on both courage and agility.
 
-Emerging from the collapsing structure just as it seals itself forever, Marcus stands amidst the settling dust and the sun casts a warm glow, he reflects on the perilous journey. Treasure in hand, he begins the trek back, adventure over but contemplating the mysteries he's uncovered and other legends yet to be explored.
+Emerging from the collapsing structure just as it seals itself forever, Marcus stands amidst the settling dust as the sun casts a warm glow, he reflects on the perilous journey that almost cost him his life. Treasure in hand, he begins the trek back, adventure over but contemplating the mysteries he's uncovered and other legends yet to be explored.
 
 "Shadow of the Serpent" offers an exhilarating blend of action, exploration, and puzzle-solving, immersing players in a world where ancient myths collide with perilous adventure. An adventure not only for the treasure but for the knowledge of uncovering legends lost to time.
 
